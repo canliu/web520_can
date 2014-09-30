@@ -1,0 +1,95 @@
+body{
+	color:black;
+	width:100%;
+}
+p{
+	font-size:14px;
+}
+ul{
+	list-style-type:none;
+}
+.header{
+height:50px;
+width:1200px;
+}
+.header ul{
+float:left;
+float:center;
+margin:0,auto
+}
+.header ul li{
+	font-size:20px;
+	float:left;
+	padding:0,20px;
+	display:block;
+	margin:0,20px;
+	width:100px;
+}
+#container{
+float:left;
+}
+.banner{
+height:200px;
+}
+.banner img.left{
+float:left;
+width:300px;
+}
+.banner div.left{
+width:500px;
+float:left;
+}
+.banner a{
+text-decoration:none;
+background:#374564;
+font-weight:bold;
+color:grey;
+}
+.right{
+float:right;
+}
+.product{
+height:200px;
+width:1200px;
+}
+.product ul li{
+float:left;
+width:80px;
+height:80px;
+padding-left:20px;
+padding-right:20px;
+}
+.product ul li.current{
+background:grey;
+}
+.intro{
+width:1200px;
+}
+.adver{
+width:1200px;
+float:left;
+}
+.adver ul li{
+width:290px;
+float:left;
+}
+.adver ul li img{
+width:290px;}
+#footer{
+height:200px;
+background:#1e1e1e;
+float:left;
+width:1200px;
+}
+#footer .one-forth{
+float:left;
+width:290px;
+height:200px;
+}
+#footer .one-forth li{
+margin-bottom:10px;
+margin-left:5px;
+}
+#footer .one-forth h3{
+margin-left:20px;
+}
